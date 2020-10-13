@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://py-contributors.github.io/awesomeScripts/"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=awesome%20Coding%20Problems&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
-  <h2 align="center">👉 A Collection of Awesome Problem Solving Scripts in Python.👈</h2>
+  <h2 align="center">👉 One problem in day and submit your problem in C++, Java, JavaScript and Python. 👈</h2>
 </p>
 <p align="center">
 <a href="https://github.com/Py-Contributors/awesomeScripts/stargazers"><img src="https://img.shields.io/github/stars/Py-Contributors/Awesome-Coding-Problems?style=for-the-badge" alt="github stars"></a>
